@@ -1,0 +1,30 @@
+[submodule "closepoints"]
+	path = closepoints
+	url = git@github.com:rcolyer/closepoints.git
+[submodule "funcutils"]
+	path = funcutils
+	url = git@github.com:thehans/funcutils.git
+[submodule "image-generator"]
+	path = image-generator
+	url = git@github.com:openscad/image-generator.git
+[submodule "MCAD"]
+	path = MCAD
+	url = git@github.com:openscad/MCAD.git
+[submodule "plot-function"]
+	path = plot-function
+	url = git@github.com:rcolyer/plot-function.git
+[submodule "Round-Anything"]
+	path = Round-Anything
+	url = git@github.com:Irev-Dev/Round-Anything.git
+[submodule "scad-utils"]
+	path = scad-utils
+	url = git@github.com:openscad/scad-utils.git
+[submodule "smooth-prim"]
+	path = smooth-prim
+	url = git@github.com:rcolyer/smooth-prim.git
+[submodule "threads-scad"]
+	path = threads-scad
+	url = git@github.com:rcolyer/threads-scad.git
+[submodule "UB.scad"]
+	path = UB.scad
+	url = git@github.com:UBaer21/UB.scad.git
