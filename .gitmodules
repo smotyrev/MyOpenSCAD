@@ -1,30 +1,30 @@
 [submodule "closepoints"]
-	path = closepoints
+	path = libs/closepoints
 	url = git@github.com:rcolyer/closepoints.git
 [submodule "funcutils"]
-	path = funcutils
+	path = libs/funcutils
 	url = git@github.com:thehans/funcutils.git
 [submodule "image-generator"]
-	path = image-generator
+	path = libs/image-generator
 	url = git@github.com:openscad/image-generator.git
 [submodule "MCAD"]
-	path = MCAD
+	path = libs/MCAD
 	url = git@github.com:openscad/MCAD.git
 [submodule "plot-function"]
-	path = plot-function
+	path = libs/plot-function
 	url = git@github.com:rcolyer/plot-function.git
 [submodule "Round-Anything"]
-	path = Round-Anything
+	path = libs/Round-Anything
 	url = git@github.com:Irev-Dev/Round-Anything.git
 [submodule "scad-utils"]
-	path = scad-utils
+	path = libs/scad-utils
 	url = git@github.com:openscad/scad-utils.git
 [submodule "smooth-prim"]
-	path = smooth-prim
+	path = libs/smooth-prim
 	url = git@github.com:rcolyer/smooth-prim.git
 [submodule "threads-scad"]
-	path = threads-scad
+	path = libs/threads-scad
 	url = git@github.com:rcolyer/threads-scad.git
 [submodule "UB.scad"]
-	path = UB.scad
+	path = libs/UB.scad
 	url = git@github.com:UBaer21/UB.scad.git
